@@ -1,9 +1,9 @@
-##Rapberry PI Script Tools
+## Rapberry PI Script Tools
 ==========
 树莓派中正在使用的一些脚本
 
 ===
-## 相关目录说明
+### 相关目录说明
  * [domain](/domain) : 域名相关
    - domain_update.py
      根据万网域名API在路由器外网IP地址发生变动时自动更新域名的绑定IP
